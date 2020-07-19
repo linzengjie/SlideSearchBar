@@ -1,0 +1,3 @@
+include ':quickSearchBar'
+include ':app'
+rootProject.name = "MyLibrary"
